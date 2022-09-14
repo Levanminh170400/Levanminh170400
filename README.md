@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Minh</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+
+
+
+- ✍ I'm a student of: Posts and Telecommunications Institute of Technology(PTIT)
+
+
+
+
+## 📫 How to reach me:
+<p>Email:Levanminhptit@gmail.com</p>
+
+
+
